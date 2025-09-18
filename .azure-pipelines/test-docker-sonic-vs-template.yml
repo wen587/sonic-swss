@@ -41,8 +41,8 @@ parameters:
   default: ""
 
 - name: debian_version
-    type: string
-        default: bookworm
+  type: string
+  default: bookworm
 
 jobs:
 - job:
